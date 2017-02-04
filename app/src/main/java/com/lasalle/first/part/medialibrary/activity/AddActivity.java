@@ -1,7 +1,8 @@
-package com.lasalle.first.part.medialibrary;
+package com.lasalle.first.part.medialibrary.activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.lasalle.first.part.medialibrary.R;
 
 public class AddActivity extends ToolbarAbstractActivity {
 
