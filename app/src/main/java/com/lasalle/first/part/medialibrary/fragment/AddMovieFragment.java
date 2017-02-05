@@ -27,7 +27,6 @@ public class AddMovieFragment extends Fragment {
     // TODO: Rename and change types and number of parameters
     public static AddMovieFragment newInstance() {
         AddMovieFragment fragment = new AddMovieFragment();
-
         return fragment;
     }
 
