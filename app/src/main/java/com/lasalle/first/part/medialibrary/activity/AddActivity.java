@@ -16,6 +16,7 @@ public class AddActivity extends ToolbarAbstractActivity {
         enableToolbarHomebutton();
 
 
+        TabLayout tabLayout = (TabLayout) findViewById(R.id.activity_add_item_tablayout);
 
 
     }
